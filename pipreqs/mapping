@@ -1030,6 +1030,7 @@ singleton:pysingleton
 sittercommon:cerebrod
 skbio:scikit_bio
 sklearn:scikit_learn
+skimage:scikit_image
 slack:slackclient
 slugify:unicode_slugify
 slugify:python-slugify
